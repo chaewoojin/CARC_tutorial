@@ -1,0 +1,4 @@
+Array task 3: seeds [60, 80)
+[run] 3 algorithms x 20 seeds = 60 experiments (T=2000) on 4 workers
+[run] finished in 0.6s (109.1 experiments/s)
+[run] saved -> results/part_3.npz

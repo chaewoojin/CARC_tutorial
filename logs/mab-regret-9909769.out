@@ -1,0 +1,7 @@
+Host: a01-08.hpc.usc.edu  |  CPUs allocated: 16
+[run] 3 algorithms x 200 seeds = 600 experiments (T=10000) on 16 workers
+[run] finished in 7.3s (82.4 experiments/s)
+[run] saved -> results/all.npz
+[plot] aggregating 1 file(s)
+[plot] saved -> results/regret.png
+Done. See results/regret.png
